@@ -1,0 +1,2 @@
+# Quiz-Game
+This is a quiz game on the topic Basic Science. In this a user who is playing the game must enter some details about him for the result card. There are 10 questions for the whole quiz. Each question holds 10 marks and user have to choose one amongst 4 options given. There will minus marking for the wrong answers (i.e. -5 for each wrong). Thank You! Go on and check for the source code and play and check your knowledge.
